@@ -7,5 +7,6 @@
 
 # 数据汇总
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn)>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
