@@ -7,6 +7,6 @@
 
 # 数据汇总
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
