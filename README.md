@@ -10,5 +10,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true&include_all_commits=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn&theme=dark&langs_count=8&exclude_repo=nodejs-sdk,server-monitor-center-distribution,core,desirecore-service&hide=javascript,html,css,cmake,tssql)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn&theme=dark&langs_count=12&exclude_repo=nodejs-sdk,server-monitor-center-distribution,core,desirecore-service&hide=javascript,html,css,cmake,tssql)](https://github.com/anuraghazra/github-readme-stats)
 
