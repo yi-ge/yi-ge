@@ -10,5 +10,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats-eta-ruddy.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
 
-[![Top Langs](https://github-readme-stats-eta-ruddy.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn&theme=dark&langs_count=10&hide=javascript,html,css,cmake,C%23,shell,tsql,tcl&cache_seconds=7200)](https://github.com/yi-ge)
+[![Top Langs](https://github-readme-stats-eta-ruddy.vercel.app/api/top-langs/?username=yi-ge&layout=compact&locale=cn&theme=dark&langs_count=10&hide=javascript,html,css,cmake,C%23,shell,tsql,tcl&cache_seconds=7200&exclude_repo=weixin_shop)](https://github.com/yi-ge)
 
