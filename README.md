@@ -7,6 +7,8 @@
 
 # 数据汇总
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yi-ge)
+
 ![Anurag's GitHub stats](https://github-readme-stats-eta-ruddy.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
 
