@@ -1,11 +1,12 @@
 ### Hi there 👋
-# 你好！
+# Hello!
 
 我是一个妄图改变世界的全栈程序员！（轶哥）
+I'm a full-stack programmer who wants to change the world! （Yige)
 
-我的博客：[https://www.wyr.me](https://www.wyr.me)
+My Blog: [https://www.wyr.me](https://www.wyr.me)
 
-# 数据汇总
+# Some Infomation
 
 ![visitors](https://app.yizcore.xyz/badge.php)
 
