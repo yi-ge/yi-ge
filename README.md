@@ -9,7 +9,7 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 # Some Infomation
 
-![visitors](https://app.yizcore.xyz/badge.php?page_id=yi-ge)
+![visitors](https://app.yizcore.xyz/badge.php)
 
 ![Anurag's GitHub stats](https://github-readme-stats-lyart-nine-64.vercel.app/api?username=yi-ge&theme=dark&show_icons=true&locale=cn&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
