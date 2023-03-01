@@ -9,7 +9,7 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 # Some Infomation
 
-![visitors](https://apio.xyz/badge.php?page_id=yi-ge)
+![visitors](https://apio.xyz/badge.php?username=yi-ge)
 
 [![Top Langs](https://cache.openapi.site/langs)](https://github.com/yi-ge)
 
