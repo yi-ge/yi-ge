@@ -15,4 +15,4 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 ![Anurag's GitHub stats](https://cache.openapi.site/stats?user=yi-ge)
 
-![Top Langs_last_year](https://util.yizcore.xyz/lang_stats.php?user=yi-ge)
+![Top Langs_last_year](https://util.yizcore.xyz/lang_stats.php?user=yi-ge&cache=false)
