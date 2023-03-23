@@ -17,6 +17,6 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 ![Top Langs Recent Week](https://util.yizcore.xyz/top-langs-week-svg.php?user=yi-ge&cache=false)
 
-![Top Langs Recent Month](https://util.yizcore.xyz/top-langs-month-svg.php?user=yi-ge)
+![Top Langs Recent Month](https://util.yizcore.xyz/top-langs-month-svg.php?user=yi-ge&cache=true)
 
-![Top Langs Recent Year](https://util.yizcore.xyz/top-langs-year-svg.php?user=yi-ge)
+![Top Langs Recent Year](https://util.yizcore.xyz/top-langs-year-svg.php?user=yi-ge&cache=true)
