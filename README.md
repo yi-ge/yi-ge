@@ -20,3 +20,5 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 ![Top Langs Recent Month](https://util.yizcore.xyz/top-langs-month-svg.php?user=yi-ge)
 
 ![Top Langs Recent Year](https://util.yizcore.xyz/top-langs-year-svg.php?user=yi-ge)
+
+![Top Langs Every_6 Months](https://util.yizcore.xyz/top-langs-every-6-months-svg.php)
