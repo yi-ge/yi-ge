@@ -1,8 +1,6 @@
 ### Hi there 👋
 # Hello!
 
-我是一个妄图改变世界的全栈程序员！（轶哥）
-
 I'm a full-stack programmer who wants to change the world! （Yige)
 
 My Blog: [https://www.wyr.me](https://www.wyr.me)
