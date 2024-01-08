@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Hello!
 
-I'm a full-stack programmer who wants to change the world! （Yige)
+I'm a full-stack programmer（Yige), 📚 having fun with AI Agent. Always learning.
 
 My Blog: [https://www.wyr.me](https://www.wyr.me)
 
@@ -13,7 +13,7 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 ![Anurag's GitHub stats](https://cache.openapi.site/stats?user=yi-ge)
 
-![Today's Change](https://util.yizcore.xyz/top-langs-today.php&cache=false)
+![Today's Change](https://util.yizcore.xyz/top-langs-today.php)
 
 ![Top Langs Recent Week](https://util.yizcore.xyz/top-langs-week-svg.php?user=yi-ge&cache=false)
 
