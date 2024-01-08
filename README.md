@@ -13,6 +13,8 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 ![Anurag's GitHub stats](https://cache.openapi.site/stats?user=yi-ge)
 
+![Today's Change](https://util.yizcore.xyz/top-langs-today.php&cache=false)
+
 ![Top Langs Recent Week](https://util.yizcore.xyz/top-langs-week-svg.php?user=yi-ge&cache=false)
 
 ![Top Langs Recent Month](https://util.yizcore.xyz/top-langs-month-svg.php?user=yi-ge)
