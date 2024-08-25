@@ -13,7 +13,7 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 ![Anurag's GitHub stats](https://cache.openapi.site/stats?user=yi-ge)
 
-![Today's Change](https://util.apio.xyz/top-langs-today.php?user=yi-ge&cache=false&cache_seconds=120)
+![Today's Change](https://util.apio.xyz/top-langs-today.php?user=yi-ge&cache=false&cache_seconds=60)
 
 ![Top Langs Recent Week](https://util.apio.xyz/top-langs-week-svg.php?user=yi-ge&cache=false)
 
