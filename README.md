@@ -7,4 +7,4 @@ My Blog: [https://www.wyr.me](https://www.wyr.me)
 
 # Some Infomation
 
-DesireCore: [https://www.desirecore.com]
+DesireCore: <https://www.desirecore.com>
